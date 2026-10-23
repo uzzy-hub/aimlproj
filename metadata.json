@@ -1,0 +1,6 @@
+{
+  "name": "LuminAI — Student AIML & Study Planner",
+  "description": "A personalized AI study planner, smart assignment manager, and AIML academic productivity toolkit for school and college students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
